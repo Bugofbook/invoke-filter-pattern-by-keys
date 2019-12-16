@@ -1,0 +1,23 @@
+{
+  "name": "invoke-filter-pattern-by-keys",
+  "version": "1.0.0",
+  "description": "Use Proxy to invoke filter-like pattern by keys of Object in Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bugofbook/invoke-filter-pattern-by-keys.git"
+  },
+  "keywords": [
+    "Proxy",
+    "filter-pattern"
+  ],
+  "author": "BugofBook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bugofbook/invoke-filter-pattern-by-keys/issues"
+  },
+  "homepage": "https://github.com/Bugofbook/invoke-filter-pattern-by-keys#readme"
+}
